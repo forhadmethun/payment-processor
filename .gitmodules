@@ -1,0 +1,9 @@
+[submodule "payment-processor-data-source"]
+	path = payment-processor-data-source
+	url = git@github.com:forhadmethun/payment-processor-data-source.git
+[submodule "payment-processor-data-flow"]
+	path = payment-processor-data-flow
+	url = git@github.com:forhadmethun/payment-processor-data-flow.git
+[submodule "payment-processor-data-proof"]
+	path = payment-processor-data-proof
+	url = git@github.com:forhadmethun/payment-processor-data-proof.git
